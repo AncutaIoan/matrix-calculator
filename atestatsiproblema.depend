@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1556965128 source:c:\new folder\atestatsiproblema\matrice.cpp
+	"matrice.h"
+	"afisare.h"
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<iomanip>
+	<string>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1556458829 c:\new folder\atestatsiproblema\matrice.h
+	<iostream>
+
+1556965535 source:c:\new folder\atestatsiproblema\main.cpp
+	"matrice.h"
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1556453694 c:\new folder\atestatsiproblema\afisare.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
